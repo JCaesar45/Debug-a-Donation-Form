@@ -1,10 +1,9 @@
-```
 # QUANTUM CHARITY - Donation Form Project
 
 ## Project Overview
 
 A cutting-edge, accessibility-focused donation form that transforms traditional web forms into an immersive quantum-themed experience. Built with advanced HTML5, CSS3, and vanilla JavaScript, this project demonstrates mastery of modern web development techniques while maintaining full accessibility compliance.
-```
+
 ## Table of Contents
 
 - [Features](#features)
